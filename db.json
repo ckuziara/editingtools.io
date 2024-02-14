@@ -1,1 +1,3 @@
-curl -u "apikey:69QRG03aQ3E8TtQwgrAlp6qOxgKLJJZFCEtFoR9L" "https://api.editingtools.io"
+{
+  curl -u "apikey:69QRG03aQ3E8TtQwgrAlp6qOxgKLJJZFCEtFoR9L" "https://api.editingtools.io"
+}
